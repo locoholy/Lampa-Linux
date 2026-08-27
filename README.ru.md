@@ -17,7 +17,7 @@ Windows-сборки на открытом рантайме NW.js. Один ск
 ## Установка
 
 ```bash
-git clone https://github.com/<вы>/Lampa-Linux
+git clone https://github.com/locoholy/Lampa-Linux
 cd Lampa-Linux
 chmod +x install-lampa.sh
 ./install-lampa.sh
